@@ -17,32 +17,39 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Get-Content: <br/>
+<img src="https://i.imgur.com/VAt1CHr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ForEach-Object:  <br/>
+<img src="https://i.imgur.com/GUy5p52.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Out-File: <br/>
+<img src="https://i.imgur.com/sLE1pT9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Test-NetConnection: <br/>
+<img src="https://i.imgur.com/sFPX4QZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nKZThmG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oppZLVV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ConvertTo-Json:  <br/>
+<img src="https://i.imgur.com/PyK01gl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Get-Date:  <br/>
+<img src="https://i.imgur.com/NlrBagg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TGQuqup.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Get-Command:  <br/>
+<img src="https://i.imgur.com/fSsVopV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Get-Help:  <br/>
+<img src="https://i.imgur.com/jbVgMec.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
